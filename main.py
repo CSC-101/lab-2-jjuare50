@@ -8,3 +8,4 @@ def welcome_message(name:str) -> str:
 
 message = welcome_message("jjuare50@calpoly.edu")
 print(message)
+
